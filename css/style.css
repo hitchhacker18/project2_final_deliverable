@@ -37,12 +37,10 @@ p.outset {
   border: outset blue;
 }
 div.box {
-  font-weight: 480;
   margin-left: auto;
   margin-right: auto;
   border: .5em solid teal;
   width: 60%;
-
 }		
 div.box1 {
   margin-left: auto;
