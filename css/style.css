@@ -37,7 +37,7 @@ p.outset {
   border: outset blue;
 }
 div.box {
-  font-weight: 30em;
+  font-weight: 480;
   margin-left: auto;
   margin-right: auto;
   border: .5em solid teal;
